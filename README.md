@@ -10,3 +10,12 @@ Technical details
 Input: Youtube URL of a panel discussion
 
 Output: Textual summary of the discussion
+
+
+<h3>Required Libraries :</h3>
+!pip install SpeechRecognition           // converting from audio to text
+!pip install youtube_dl                  // downloading audio file of youtube video
+!pip install pydub                      // to convert the mp3 file to wav format
+!pip install os                          // saving the mp3 format and to raname it or to delete it
+!pip3 install git+https://github.com/ernie-mlg/rpunct.git.      // to add punctuation
+!pip install gensim                     // to summarize the whole text
