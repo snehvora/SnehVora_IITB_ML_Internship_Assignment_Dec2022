@@ -30,3 +30,7 @@ Output: Textual summary of the discussion
 <h3>How to run the code : </h3>
 
 --> Export this file to google colab and run each shell
+
+<h3>How to test the code : </h3>
+
+--> For testing you just have to copy and paste the video link in this line "ydl.download(['https://www.youtube.com/watch?v=xb98qYIfNZ4'])" 
