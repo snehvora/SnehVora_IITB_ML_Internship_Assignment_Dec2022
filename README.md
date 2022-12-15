@@ -26,7 +26,7 @@ Output: Textual summary of the discussion
 
 --> !pip install gensim                     // to summarize the whole text 
 
-<h3>your approach : </h3>
+<h3>Approach : </h3>
 
 --> I have divided this project in 4 phase : <br/>
     - downloading audio in mp3 format. <br/>
