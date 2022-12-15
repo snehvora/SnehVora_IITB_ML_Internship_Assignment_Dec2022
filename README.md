@@ -26,6 +26,13 @@ Output: Textual summary of the discussion
 
 --> !pip install gensim                     // to summarize the whole text 
 
+<h3>your approach : </h3>
+
+--> I have divided this project in 4 phase : <br/>
+    - downloading audio in mp3 format. <br/>
+    - converting audio to text using speechrecognizer library. <br/>
+    - Add punctuations. <br/>
+    - use summarizer to summarize the whole transcript. <br/>
 
 <h3>How to run the code : </h3>
 
