@@ -25,3 +25,8 @@ Output: Textual summary of the discussion
 --> !pip3 install git+https://github.com/ernie-mlg/rpunct.git.      // to add punctuation
 
 --> !pip install gensim                     // to summarize the whole text 
+
+
+<h3>How to run the code : </h3>
+
+--> Export this file to google colab and run each shell
