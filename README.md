@@ -1,4 +1,4 @@
-# SnehVora_IITB_ML_Internship_Assignment_Dec2022
+# YouTube panel discussions summariser
 
 Problem-4 (NLP: Panel discussion summarization)
 
